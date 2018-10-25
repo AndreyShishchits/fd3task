@@ -1,0 +1,17 @@
+.lishka {
+    list-style-type: none;
+    height: 100px;
+    width: 300px;
+    border: solid 1px black;
+    background-color: chocolate;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.spisochek {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
